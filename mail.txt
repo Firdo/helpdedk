@@ -1,0 +1,10 @@
+
+{"data":{},"message":"Success"}Firdous Farith2019/02/19 09:07:56
+{"data":{},"message":"Success"}Firdous Farith2019/02/19 09:07:56
+{"data":{},"message":"Success"}Firdous Farith2019/02/19 09:07:56
+{"data":{},"message":"Success"}Mohamed Riyadhkhan2019/02/19 09:27:57
+{"data":{},"message":"Success"}Firdous Farith2019/02/19 09:35:38
+{"error_info":{"error_message":"Invalid From Email used in API call. Hence authentication failed.","error_code":112},"message":"Payload_Error"}Firdous Farith2019/02/19 09:39:58
+{"error_info":{"error_message":"Invalid From Email used in API call. Hence authentication failed.","error_code":112},"message":"Payload_Error"}Mohamed Niyasudeen2019/02/19 11:30:44
+{"data":{},"message":"Success"}Mohamed Niyasudeen2019/02/19 11:31:37
+{"data":{},"message":"Success"}Firdous Farith2019/02/19 11:43:31

@@ -1,0 +1,90 @@
+[09-Feb-2019 20:23:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 14
+[09-Feb-2019 20:23:01 UTC] PHP Warning:  mysqli_set_charset() expects parameter 1 to be mysqli, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 15
+[09-Feb-2019 20:23:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 20
+[09-Feb-2019 20:23:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:23:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/index.php on line 52
+[09-Feb-2019 20:23:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:23:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/index.php on line 52
+[09-Feb-2019 20:25:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:25:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getState.php on line 10
+[09-Feb-2019 20:25:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:25:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:26:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:26:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getState.php on line 10
+[09-Feb-2019 20:26:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:26:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:26:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:26:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getState.php on line 10
+[09-Feb-2019 20:26:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:26:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:26:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:26:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getState.php on line 10
+[09-Feb-2019 20:26:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:26:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:26:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getState.php on line 10
+[09-Feb-2019 20:26:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:26:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:26:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getState.php on line 10
+[09-Feb-2019 20:26:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:26:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:26:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getState.php on line 10
+[09-Feb-2019 20:26:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:27:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:27:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:27:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:27:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:27:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:27:36 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:27:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:29:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:29:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:29:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:29:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:29:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:29:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:29:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:29:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:29:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:29:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:29:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:29:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:29:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:29:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:29:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:29:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:29:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:30:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:30:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:30:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:30:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:31:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:31:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:31:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:31:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:33:14 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:33:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:33:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:33:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:34:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:34:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:35:38 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:35:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:35:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:35:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:36:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:36:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:36:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:36:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:36:51 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:36:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:36:52 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:36:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:37:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:37:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 20:37:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/dgpspdpi/public_html/inventory/example/dbcontroller.php on line 21
+[09-Feb-2019 20:37:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dgpspdpi/public_html/inventory/example/getCity.php on line 10
+[09-Feb-2019 09:48:38 UTC] PHP Warning:  include(db/dbconfig.php): failed to open stream: No such file or directory in /home/dgpspdpi/public_html/inventory/example/index.php on line 53
+[09-Feb-2019 09:48:38 UTC] PHP Warning:  include(db/dbconfig.php): failed to open stream: No such file or directory in /home/dgpspdpi/public_html/inventory/example/index.php on line 53
+[09-Feb-2019 09:48:38 UTC] PHP Warning:  include(): Failed opening 'db/dbconfig.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/dgpspdpi/public_html/inventory/example/index.php on line 53
+[09-Feb-2019 09:48:38 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/dgpspdpi/public_html/inventory/example/index.php on line 55

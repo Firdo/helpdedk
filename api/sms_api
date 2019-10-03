@@ -1,0 +1,39 @@
+  <?php 
+  
+  
+  
+  $number='971527956958';
+
+					$data_string = '{
+					"userName":"DGPSchool",  
+					"priority":1,
+					"referenceId":"124154324",   
+					"dlrUrl":null,    
+					"msgType":0,   
+					"senderId":"Dubaigem",
+					"message":"Hi Test Message ",   
+					"mobileNumbers":{
+					"messageParams":[
+					{
+					"mobileNumber":"'.$number.'"
+					}
+					]
+					},
+					"password":"Dgps2018#"    
+					}';
+				 
+					$ch = curl_init("https://api.me.synapselive.com/v1/multichannel/messages/sendsms");
+					curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "POST");
+					curl_setopt($ch, CURLOPT_POSTFIELDS, $data_string);
+					curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+					curl_setopt($ch, CURLOPT_HTTPHEADER, array(
+						'Content-Type: application/json;charset=utf-8',
+						'Content-Length: ' . strlen($data_string))
+					);
+
+					$result = curl_exec($ch);
+					curl_close($ch);
+					echo $result;
+			 ?>
+
+                
